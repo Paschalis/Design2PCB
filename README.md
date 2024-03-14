@@ -1,7 +1,7 @@
 # Design2PCB ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange)
 
 ## Overview
-**🚧 Note: This project is currently under construction.** We're in the process of adding new designs, refining existing ones, and updating documentation. Expect regular updates, and feel free to contribute or provide feedback!
+**🚧 Note: This project is currently under construction.** I'm in the process of adding new designs, refining existing ones, and updating documentation. Expect regular updates, and feel free to contribute or provide feedback!
 
 ![Alt Text](example.png)
 
