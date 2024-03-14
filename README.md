@@ -3,6 +3,9 @@
 ## Overview
 **🚧 Note: This project is currently under construction.** We're in the process of adding new designs, refining existing ones, and updating documentation. Expect regular updates, and feel free to contribute or provide feedback!
 
+![Alt Text](example.png)
+
+
 Welcome to **Design2PCB**, a dynamic repository showcasing custom PCB designs and footprints. Our project elegantly blends detailed KiCad schematics and PCB layouts, originally designed with CAD modeling, and features unique footprints derived from Inkscape illustrations, converted for KiCad use. Dive into the seamless integration of mechanical CAD modeling and graphic design into the PCB design process, employing a powerful combination of FreeCAD, Inkscape, and KiCad.
 
 ## 🔧 Installation and Requirements
