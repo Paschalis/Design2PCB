@@ -28,7 +28,9 @@ The `/Inkscape_Designs` folder contains the original SVG files created in Inksca
 Your contributions and suggestions are crucial for the improvement of this project! Whether it's adding new designs, refining existing ones, or enhancing documentation, every input is valued. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## 📜 License
-This project is released under the [MIT License](LICENSE). You're free to use, modify, and distribute the designs as per the terms of the license.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is released under the [MIT License](LICENSE.txt). You're free to use, modify, and distribute the designs as per the terms of the license.
 
 ## 💖 Acknowledgments
 A heartfelt thank you to everyone who has contributed to this project, through direct contributions, suggestions, or feedback. Your support propels this project forward.
