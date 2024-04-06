@@ -198,4 +198,28 @@
 		(layer "Edge.Cuts")
 		(uuid "5e8e17a5-e34e-4bc8-b1f9-44a2eace85a7")
 	)
+	(gr_text "SV2IPW"
+		(at 117.25 79.26 0)
+		(layer "F.Cu")
+		(uuid "a5ab62f0-44ea-42b1-a0ce-d33154aad1d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SV2IPW"
+		(at 117.25 79.26 0)
+		(layer "F.Mask")
+		(uuid "a598a0ea-cabc-4f58-bb53-e82d0f266b99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 )
