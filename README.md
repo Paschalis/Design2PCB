@@ -27,7 +27,7 @@ Find custom footprints designed in FreeCAD in the `/FreeCAD_Footprints` folder, 
 - #### Inkscape Designs to KiCad Footprints
 The `/Inkscape_Designs` folder contains the original SVG files created in Inkscape. Follow the conversion process outlined in the corresponding README to turn these designs into KiCad footprints.
 
-## Author
+## 👨‍💻 Author
 - [![Paschalis M.](https://img.shields.io/badge/GitHub-Paschalis_M.-007FFF?style=flat&logo=github)](https://github.com/Paschalis)
 
 ## Contributors
