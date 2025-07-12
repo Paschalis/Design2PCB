@@ -27,6 +27,17 @@ Find custom footprints designed in FreeCAD in the `/FreeCAD_Footprints` folder, 
 - #### Inkscape Designs to KiCad Footprints
 The `/Inkscape_Designs` folder contains the original SVG files created in Inkscape. Follow the conversion process outlined in the corresponding README to turn these designs into KiCad footprints.
 
+## 🛠️ 3D-Printed Designs
+
+### PRM-4720 Volume Knob — Concept ➜ Print ➜ Reality
+
+| Stage | Preview |
+|-------|---------|
+| **1. Reference Part**<br>Original PRM-4720 knob used for reverse-engineering | ![PRM-4720 reference](Images/PRM-4720.jpg) |
+| **2. CAD Model (FreeCAD)**<br>Parametric model with knurled grip, set-screw slot & indicator line | ![FreeCAD model](Images/freecad.png) |
+| **3. Slicer Preview (ideaMaker)**<br>G-code inspection and infill check before printing | ![ideaMaker preview](Images/3d_printed.png) |
+| **4. Finished Print**<br>PLA-plus, 0.16 mm layers, silk-black filament | ![Printed knob](Images/PRM-4720_3dPrinted.jpg) |
+
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
